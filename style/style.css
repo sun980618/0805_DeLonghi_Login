@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@import url(style_reset.css);
+
+#headerFrame {
+  background-color: #0c2645;
+}
+
+#headerFrame header#header {
+  width: 1230px;
+  height: 110px;
+  border: 1px solid #aaa;
+  margin: 0 auto;
+}
+
+div#wrap {
+  width: 1230px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+div#footerFrame {
+  width: 1230px;
+  height: 200px;
+  background-color: #0c2645;
+}
